@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;str&apos; in &apos;‪Test.countCharInString(...)‬&apos; to &apos;str1&apos;&#x0A;- Original project: &apos;Testing&apos;&#x0A;- Original element: &apos;Test.countCharInString(String, char).str&apos;&#x0A;- Renamed element: &apos;str&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;str&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Test.java[Test~countCharInString~QString;~C@str!255!264!262!264!QString;!0!true" name="str1" references="true" stamp="1709835618413" version="1.0"/>
+</session>
