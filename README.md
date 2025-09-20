@@ -1,24 +1,24 @@
-# Introduction To Programming – Assignments
+# Introduction to Programming – Assignments
 
-תיקייה זו מכילה 4 עבודות שבוצעו במסגרת קורס **מבוא לתכנות**.  
-כל עבודה כוללת קבצי קוד מקור ב־Java, קבצי הגדרות של Eclipse, ותוצרים קומפילציה (class).
+This repository contains **4 programming assignments** completed as part of the *Introduction to Programming* course.  
+Each assignment includes Java source code, Eclipse configuration files, and compiled outputs.
 
-## מבנה התיקייה
+## Repository Structure
 - **Assignment1**  
-  מכיל מספר משימות תכנות בסיסיות (Task1–Task4) המתמקדות בהיכרות עם תחביר Java, קלט/פלט, שימוש במחלקות ומתודות.
+  Basic programming tasks (Task1–Task4) focusing on Java syntax, input/output operations, and the use of classes and methods.
   
 - **Assignment2**  
-  תרגול המשך הכולל עבודה עם מבנים לוגיים, לולאות, תנאים ופיתוח תוכניות ממוקדות מטרה.
+  Exercises covering logical structures, loops, conditions, and the development of small targeted programs.
   
 - **Assignment3**  
-  עבודה רחבה יותר, עם דגש על מבני נתונים בסיסיים, עבודה עם מערכים ופתרון בעיות חישוביות.
+  Broader tasks emphasizing basic data structures, working with arrays, and solving computational problems.
   
 - **Assignment4**  
-  עבודה מסכמת עם משימות מתקדמות יותר, שילוב של אלגוריתמים, תכנות מונחה עצמים, והבנה עמוקה יותר של ניהול פרויקטים ב־Java.
+  A final assignment with more advanced tasks, combining algorithms, object-oriented programming concepts, and deeper project management in Java.
 
-## הוראות הפעלה
-1. פתחו את אחת מתיקיות העבודות (למשל `Assignment1/src`).
-2. קבצי הקוד נכתבו ב־Java וניתנים להרצה באמצעות:
+## How to Run
+1. Open one of the assignment folders (e.g., `Assignment1/src`).
+2. Compile and run using the Java compiler:
    ```bash
    javac Task1.java
    java Task1
